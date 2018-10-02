@@ -1,5 +1,5 @@
 Welcome at the first School Of AI session.
-To beging you have to setup our environment.
+To beging you have to setup your environment.
 For that use conda package manager:
 https://conda.io/miniconda.html
 
@@ -12,7 +12,7 @@ conda env list
 You should see the SchoolOfAI environment:
 SchoolOfAI_S1
 
-Activate the environment wit:
+Activate the environment with:
 conda activate SchoolOfAI_S1
 
 In the console you should see the environment is active:
